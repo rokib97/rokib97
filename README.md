@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rokibul Hasan Rokib
 #### A passionate Web Developer from Dhaka Bangladesh. 
-![A passionate Web Developer from Dhaka Bangladesh. ](https://github.com/rokib97/rokib97/blob/main/bannergithub.png)
+![A passionate Web Developer from Dhaka Bangladesh. ](https://github.com/rokib97/rokib97/blob/main/github-bannerone.png)
 
 Hey, I'm Rokibul Hasan Rokib, an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.
 
