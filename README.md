@@ -1,9 +1,11 @@
-![I am rokib97](https://github.com/rokib97/rokib97/blob/main/github-bannerone.png)
+![I am I'm rokib97](https://github.com/rokib97/rokib97/blob/main/github-bannerone.png)
+
+<h1 align="center">Hi 👋, Rokibul Hasan Rokib</h1>
 <h3 align="center">A passionate frontend developer from Dhaka Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rokib97&label=Profile%20views&color=0e75b6&style=flat" alt="rokib97" /> </p>
+![Profile views](https://gpvc.arturio.dev/rokib97) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rokib97" alt="rokib97" /></a> </p>
+Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills. 
 
 - 🌱 I’m currently learning **Node.js, Express.js, TypeScript**
 
