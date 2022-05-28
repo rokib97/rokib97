@@ -10,8 +10,8 @@ Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong 
 Skills:  HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS 
 
 - 🌱 I’m currently learning **Node.js, Express.js, TypeScript**
-- 
-- - 👨‍💻 All of my projects are available at [https://github.com/rokib97](https://github.com/rokib97)
+
+- 👨‍💻 All of my projects are available at [https://github.com/rokib97](https://github.com/rokib97)
 
 - 💬 Ask me about **JavaScript, ES6, React**
 
