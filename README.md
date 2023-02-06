@@ -1,4 +1,4 @@
-![I am I'm rokib97](https://raw.githubusercontent.com/rokib97/rokib97/main/giphy.webp)
+![I am I'm rokib97](https://github.com/rokib97/rokib97/blob/main/github-bannerone.png)
 
 <h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
 <h3 align="center">A passionate Web developer from Dhaka Bangladesh.</h3>
