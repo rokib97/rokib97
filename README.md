@@ -1,13 +1,13 @@
-![I am I'm rokib97](https://github.com/rokib97/rokib97/blob/main/github-bannerone.png)
+![I am I'm rokib97](https://raw.githubusercontent.com/rokib97/rokib97/main/giphy.webp)
 
 <h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
 <h3 align="center">A passionate Web developer from Dhaka Bangladesh.</h3>
 
-![Profile views](https://gpvc.arturio.dev/rokib97) 
+![Profile views](https://gpvc.arturio.dev/rokib97)
 
-Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills. 
+Welcome to my GitHub profile. I am an aspiring MERN Stack Developer with strong knowledge of JavaScript, Es6, React , Express, MongoDB. I seek out new knowledge and technology and actively develop my skills.
 
-Skills:  HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS 
+Skills: HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS
 
 - 🌱 I’m currently learning **Node.js, Express.js, TypeScript**
 
@@ -30,9 +30,8 @@ Skills:  HTML / CSS / BOOTSTRAP / Tailwind / JS / REACT / NODE.JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rokib97) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rokib97)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rokib97)  
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rokib97)
