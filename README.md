@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rokibulhasan.ph@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hvMp2VK5t9wANxprHw4dSKDotWqA6PX3/view?usp=sharing](https://drive.google.com/file/d/1hvMp2VK5t9wANxprHw4dSKDotWqA6PX3/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/blEFV](https://shorturl.at/blEFV)
 
 - ⚡ Fun fact **I thrive on a concoction of memes, music that hits the soul, and a penchant for the darkest humor. 🎵😄🖤**
 
