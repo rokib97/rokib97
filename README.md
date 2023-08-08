@@ -1,6 +1,14 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
-<h3 align="center">👋 Greetings, I'm a MERN Stack Developer, coding instructor, and computer science enthusiast, all rolled into one! With a strong foundation in Computer Science and Engineering, I excel at crafting elegant solutions and transforming intricate algorithms into practical applications. My passion lies in guiding aspiring developers through the enchanting world of the MERN (MongoDB, Express, React, Node.js) stack, while my diverse skill set lets me seamlessly bridge backend wizardry with captivating front-end interfaces. As an eternal learner, I dive into emerging technologies and design principles, ensuring I'm always at the forefront of innovation. Let's connect, collaborate, and together, let's shape the digital landscape! 🚀</h3>
+<h1 align="center">👋 Greetings! I'm Rokibul Hasan Rokib, a passionate MERN Stack Developer, coding instructor, and computer science enthusiast.</h1>
+<h3 align="center">💻 With an unwavering love for crafting web applications using the MERN stack, I'm on a constant journey to push the boundaries of what's possible in the digital realm.
+
+🎓 As an educator at [Programming Hero](https://programminghero.com), I guide aspiring developers through coding intricacies, helping shape the next generation of tech wizards.
+
+🌟 Beyond code, I dive into tech trends, decipher algorithms, and appreciate the beauty of elegant problem-solving.
+
+🎵 When not coding, I groove to tunes, share laughs through memes, and enjoy dark humor.
+
+🚀 Join me on this journey to write code that innovates, bridges gaps, and leads to a brighter digital future.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokib97&label=Profile%20views&color=0e75b6&style=flat" alt="rokib97" /> </p>
