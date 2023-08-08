@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Rokibul Hasan Rokib</h1>
 <h3 align="center">👋 Greetings, I'm a MERN Stack Developer, coding instructor, and computer science enthusiast, all rolled into one! With a strong foundation in Computer Science and Engineering, I excel at crafting elegant solutions and transforming intricate algorithms into practical applications. My passion lies in guiding aspiring developers through the enchanting world of the MERN (MongoDB, Express, React, Node.js) stack, while my diverse skill set lets me seamlessly bridge backend wizardry with captivating front-end interfaces. As an eternal learner, I dive into emerging technologies and design principles, ensuring I'm always at the forefront of innovation. Let's connect, collaborate, and together, let's shape the digital landscape! 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/13HgwGsXF0aiGY">
