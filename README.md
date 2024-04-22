@@ -1,4 +1,5 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+<a href="https://gitroll.io/profile/ukAto3Igka5axCGkVxMezhqJNgC83" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ukAto3Igka5axCGkVxMezhqJNgC83" alt="GitRoll Profile Badge"/></a>
 <h1 align="center">👋 Greetings! I'm Rokibul Hasan Rokib, a passionate MERN Stack Developer, coding instructor, and computer science enthusiast.</h1>
 <h3 align="center">With a knack for crafting elegant web solutions, I'm passionate about the art of coding and its endless possibilities. I'm on a mission to share my knowledge through teaching, making complex concepts understandable for fellow learners. When I'm not immersed in code, you'll find me exploring the world of technology, continuously learning and growing to stay ahead in this ever-evolving field. Let's connect and embark on a journey of innovation together! 🚀👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
