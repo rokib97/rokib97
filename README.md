@@ -1,7 +1,7 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 
 <h1 align="center">👋 Greetings! I'm Rokibul Hasan Rokib, a passionate MERN Stack Developer, coding instructor, and computer science enthusiast.</h1>
-<h3 align="center">With a knack for crafting elegant web solutions, I'm passionate about the art of coding and its endless possibilities. I'm on a mission to share my knowledge through teaching, making complex concepts understandable for fellow learners. When I'm not immersed in code, you'll find me exploring the world of technology, continuously learning and growing to stay ahead in this ever-evolving field. Let's connect and embark on a journey of innovation together! 🚀👨‍💻</h3>
+<h3 align="center">I love creating beautiful web solutions and sharing my coding knowledge. I'm always learning new tech and staying ahead. Let's connect and innovate together! 🚀👨‍💻🚀👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rokib97&label=Profile%20views&color=0e75b6&style=flat" alt="rokib97" /> </p>
