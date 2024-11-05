@@ -1,43 +1,33 @@
-<!-- Header with Gradient & Title -->
-<h1 align="center" style="font-weight: bold; background: -webkit-linear-gradient(45deg, #3A3D98, #36BCF7); -webkit-background-clip: text; color: transparent;">Rokibul Hasan Rokib</h1>
-<h3 align="center" style="color: #3A3D98;">MERN Stack Developer | Educator | Lifelong Learner</h3>
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
+<h1 align="center">Hello, I'm Rokibul Hasan Rokib 👋</h1>
+<h3 align="center">A MERN Stack Developer | Coding Educator | Tech Enthusiast 🚀</h3>
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+
+- 🔭 Currently working on **React, Next.js, TypeScript**
+- 🌱 Expanding my skills in **Python, Node.js, TypeScript**
+- 💬 Ask me about **JavaScript, React, Node.js, Express**
+- 📫 Reach me at **rokibulhasan.ph@gmail.com**
+- ⚡ Fun fact: **I thrive on memes, music, and dark humor 🎵😄🖤**
+
+<br>
 
 ---
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=rokib97&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" /> 
-</div>
-
----
-
-### 👋 About Me
-I’m a **MERN Stack Developer** and tech educator with a passion for JavaScript, React, and building applications that solve real-world problems. Through engaging projects and tutorials, I help beginners transition from zero to hero in the coding world. 
-
-- 🌱 **Learning:** TypeScript & Advanced React 
-- 🎓 **Mentor**: Guiding over 200 learners in coding communities
-- 💼 **Project Lead**: Currently managing MERN stack projects
-- 📺 **YouTube - Dark Academy**: Simplifying complex concepts with humor and creativity
-
----
-
-### 🌐 Connect With Me
-
+### 🛠 Tech Stack & Tools
 <p align="center">
-    <a href="https://fb.com/rokib97" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="35" /></a>
-    <a href="mailto:rokibulhasan.ph@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="35" /></a>
-    <a href="https://linkedin.com/in/rokib97" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="35" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" />
-    <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase" width="40" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
@@ -45,21 +35,22 @@ I’m a **MERN Stack Developer** and tech educator with a passion for JavaScript
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=calm&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=calm&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Rokib's GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&hide_border=true&theme=radical&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Top Languages" width="400"/>
 </div>
 
 ---
 
-### 🎯 Goals
-
-- Launch more **educational content** for JavaScript and React
-- Build interactive projects that enhance learning
-- Explore new tech trends like **Next.js** and **TypeScript**
+### 🤝 Connect with Me
+<p align="center">
+    <a href="https://fb.com/rokib97" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    </a>
+</p>
 
 ---
 
 <!-- Footer -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=%2336BCF7&size=25&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+my+profile!;Let's+build+amazing+things+%F0%9F%92%BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=22&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+my+profile!;Let's+build+amazing+things+%F0%9F%92%BB" alt="Typing SVG">
 </p>
