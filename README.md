@@ -37,12 +37,22 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Rokib's GitHub Stats" width="400"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&hide_border=true&theme=radical&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Top Languages" width="400"/>
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=rokib97&theme=radical&no-bg=true&no-frame=true&row=1" alt="Trophies">
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=radical&hide_border=true&background=1A1A1D&stroke=FFFFFF&ring=36BCF7&fire=79ff97" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="center">
+    <a href="https://linkedin.com/in/rokib97" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:rokibulhasan.ph@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
     <a href="https://fb.com/rokib97" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
     </a>
@@ -52,5 +62,10 @@
 
 <!-- Footer -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=22&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+my+profile!;Let's+build+amazing+things+%F0%9F%92%BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!;Let's+code+and+create+awesome+stuff+%F0%9F%92%BB" alt="Typing SVG">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/followers/rokib97?style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/stars/rokib97?style=social" alt="GitHub stars">
 </p>
