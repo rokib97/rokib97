@@ -35,12 +35,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Rokib's GitHub Stats" width="400"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&hide_border=true&theme=radical&bg_color=1A1A1D&title_color=36BCF7&icon_color=79ff97&text_color=FFFFFF" alt="Top Languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=radical&hide_border=true&bg_color=1A1A1D&title_color=FF5733&icon_color=79ff97&text_color=FFFFFF" alt="Rokib's GitHub Stats" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&hide_border=true&theme=radical&bg_color=1A1A1D&title_color=FF5733&icon_color=79ff97&text_color=FFFFFF" alt="Top Languages" width="400"/>
     <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=rokib97&theme=radical&no-bg=true&no-frame=true&row=1" alt="Trophies">
-    <br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=radical&hide_border=true&background=1A1A1D&stroke=FFFFFF&ring=36BCF7&fire=79ff97" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=radical&hide_border=true&background=1A1A1D&stroke=FFFFFF&ring=FF5733&fire=79ff97" alt="GitHub Streak" width="400"/>
 </div>
 
 ---
@@ -62,7 +60,7 @@
 
 <!-- Footer -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!;Let's+code+and+create+awesome+stuff+%F0%9F%92%BB" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting!;Let's+code+and+create+awesome+stuff+%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
 <p align="center">
