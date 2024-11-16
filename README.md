@@ -23,7 +23,7 @@ const rokib = {
     askMeAbout: ["Web Dev 💻", "Tech Trends 🚀", "Community Building 🤝"],
     hobbies: ["Gaming 🎮", "Tech Blogging ✍️", "Coffee Enthusiast ☕"],
     funFact: "I debug with caffeine and celebrate with memes! 😄",
-    reachMe: "rokibulhasan.ph@gmail.com✉️"
+    reachMe: "rokibulhasan.ph@gmail.com"
 };
 ```
 🛠️ Technologies & Tools 🛠️
