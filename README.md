@@ -30,7 +30,20 @@ const rokib = {
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
 📊 GitHub Statistics 📊
-<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats"> <img width="390" src="https://streak-stats.demolab.com/?user=rokib97&theme=tokyonight&hide_border=true&border_radius=10&background=1F222E" alt="GitHub Streak"> </div> <div align="center"> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages"> </div>
+
+<div align="center">
+  <!-- GitHub Stats -->
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats">
+  
+  <!-- GitHub Streak -->
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=tokyonight&hide_border=true&border_radius=10&background=1F222E" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages">
+</div>
+
 🤝 Connect with Me 🤝
 
 <div align="center"> <a href="https://www.linkedin.com/in/rokibul97/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn"> </a> <a href="mailto:rokibulhasan.ph@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email"> </a> <a href="https://fb.com/rokib97"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic" alt="Facebook"> </a> </div>
