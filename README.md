@@ -15,33 +15,25 @@
 ### ⚡ About Me ⚡
 
 ```javascript
-type SkillSet = "React" | "Next.js" | "TypeScript" | "Python" | "Node.js" | "AWS";
-type Hobby = "Gaming" | "Blogging" | "Coffee" | "Tech Enthusiast";
-type FocusArea = "Web Development" | "Tech Innovation" | "Community Building";
+type Skill = "React ⚛️" | "Next.js 🔥" | "TypeScript 💻" | "Node.js 💚" | "Linux 🐧";
+type Hobby = "Gaming 🎮" | "Blogging ✍️" | "Coffee ☕" | "Open Source 💻";
+type Focus = "Web Dev 💻" | "Tech Innovation 🚀" | "Open Source Contributor 🌍";
 
-interface Profile<T extends string, U extends string[], V extends string[]> {
+interface Profile<T extends string, U extends string[]> {
     location: string;
     focus: T;
     skills: U;
-    learning: U;
-    askMeAbout: V;
-    hobbies: V;
     funFact: string;
     reachMe: string;
 }
 
-const rokib: Profile<FocusArea, SkillSet[], Hobby[]> = {
-    location: "Bangladesh 🇧🇩 – Ground zero for innovation",
-    focus: "Web Development",
-    skills: ["React", "Next.js", "TypeScript"],
-    learning: ["Python", "Node.js", "AWS"],
-    askMeAbout: ["Web Development", "Tech Innovation", "Community Building"],
-    hobbies: ["Gaming", "Blogging", "Coffee"],
-    funFact: "My code runs on caffeine and memes. Debugging? More like debugging with memes 😄!",
-    reachMe: "Let's connect: rokibulhasan.ph@gmail.com"
+const rokib: Profile<Focus, Skill[]> = {
+    location: "Bangladesh 🇧🇩 – Innovating from the heart of tech",
+    focus: "Web Dev 💻 & Open Source 🌍 – Building for the web and the world",
+    skills: ["React ⚛️", "Next.js 🔥", "TypeScript 💻", "Node.js 💚", "Linux 🐧"],
+    funFact: "Code + Coffee + Memes = Perfect Debugging Formula 😎",
+    reachMe: "Let’s collaborate: rokibulhasan.ph@gmail.com"
 };
-
-
 
 ```
 🛠️ Technologies & Tools 🛠️
