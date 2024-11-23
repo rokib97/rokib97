@@ -29,6 +29,7 @@ const rokib = {
 🛠️ Technologies & Tools 🛠️
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
+
 📊 GitHub Statistics 📊
 
 <div align="center">
