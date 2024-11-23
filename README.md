@@ -15,16 +15,32 @@
 ### ⚡ About Me ⚡
 
 ```javascript
-const rokib = {
-    location: "Bangladesh 🇧🇩",
-    focus: "Web solutions & tech innovation 🌐🚀",
-    skills: ["React ⚛️", "Next.js 🔥", "TypeScript 💪"],
-    learning: ["Python 🐍", "Node.js 💚", "AWS ☁️"],
-    askMeAbout: ["Web Dev 💻", "Tech Trends 🚀", "Community 🤝"],
-    hobbies: ["Gaming 🎮", "Blogging ✍️", "Coffee ☕"],
-    funFact: "I debug with coffee and memes! 😄",
-    reachMe: "rokibulhasan.ph@gmail.com"
+type SkillSet = "React" | "Next.js" | "TypeScript" | "Python" | "Node.js" | "AWS";
+type Hobby = "Gaming" | "Blogging" | "Coffee" | "Tech Enthusiast";
+type FocusArea = "Web Development" | "Tech Innovation" | "Community Building";
+
+interface Profile<T extends string, U extends string[], V extends string[]> {
+    location: string;
+    focus: T;
+    skills: U;
+    learning: U;
+    askMeAbout: V;
+    hobbies: V;
+    funFact: string;
+    reachMe: string;
+}
+
+const rokib: Profile<FocusArea, SkillSet[], Hobby[]> = {
+    location: "Bangladesh 🇧🇩 – Ground zero for innovation",
+    focus: "Web Development",
+    skills: ["React", "Next.js", "TypeScript"],
+    learning: ["Python", "Node.js", "AWS"],
+    askMeAbout: ["Web Development", "Tech Innovation", "Community Building"],
+    hobbies: ["Gaming", "Blogging", "Coffee"],
+    funFact: "My code runs on caffeine and memes. Debugging? More like debugging with memes 😄!",
+    reachMe: "Let's connect: rokibulhasan.ph@gmail.com"
 };
+
 
 
 ```
