@@ -16,15 +16,16 @@
 
 ```javascript
 const rokib = {
-    location: "Bangladesh 🇧🇩 – Where tech meets tradition!",
-    currentFocus: "Crafting innovative and impactful web solutions 🌐🚀",
-    workingOn: ["React ⚛️", "Next.js 🔥", "TypeScript 💪 – Building the future of web"],
-    learning: ["Python 🐍 – Mastering the art of backend", "Node.js 💚 – Scalable server-side magic", "AWS ☁️ – Elevating cloud solutions"],
-    askMeAbout: ["Web Development 💻 – From concepts to execution", "Tech Trends 🚀 – What's next in the digital world?", "Community Building 🤝 – Let's grow together!"],
-    hobbies: ["Gaming 🎮 – Leveling up in life and virtual worlds", "Tech Blogging ✍️ – Sharing knowledge and insights", "Coffee Enthusiast ☕ – Fueling my ideas with every sip"],
-    funFact: "I debug with caffeine and celebrate with memes! 😄 Keep calm and code on!",
-    reachMe: "Feel free to reach out: rokibulhasan.ph@gmail.com"
+    location: "Bangladesh 🇧🇩",
+    focus: "Web solutions & tech innovation 🌐🚀",
+    skills: ["React ⚛️", "Next.js 🔥", "TypeScript 💪"],
+    learning: ["Python 🐍", "Node.js 💚", "AWS ☁️"],
+    askMeAbout: ["Web Dev 💻", "Tech Trends 🚀", "Community 🤝"],
+    hobbies: ["Gaming 🎮", "Blogging ✍️", "Coffee ☕"],
+    funFact: "I debug with coffee and memes! 😄",
+    reachMe: "rokibulhasan.ph@gmail.com"
 };
+
 
 ```
 🛠️ Technologies & Tools 🛠️
