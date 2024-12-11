@@ -42,18 +42,7 @@ const rokib: Profile<Focus, Skill[]> = {
 
 📊 GitHub Statistics 📊
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats">
-  
-  <!-- GitHub Streak -->
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=tokyonight&hide_border=true&border_radius=10&background=1F222E" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages">
-</div>
+<div align="center"> <!-- GitHub Stats --> <img width="390" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats"> <!-- GitHub Streak --> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=tokyonight&hide_border=true&border_radius=10&background=1F222E" alt="GitHub Streak"> </div> <div align="center"> <!-- Top Languages --> <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages"> </div>
 
 🤝 Connect with Me 🤝
 
