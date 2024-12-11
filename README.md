@@ -39,13 +39,15 @@ const rokib: Profile<Focus, Skill[]> = {
 🛠️ Technologies & Tools 🛠️
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
+
+
 📊 GitHub Statistics 📊
 
-<div align="center"> <!-- GitHub Stats --> 
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats --> 
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=1F222E" alt="GitHub Stats">
-</div> 
 
-<div align="center"> <!-- Top Languages --> 
+  <!-- Top Languages --> 
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&theme=tokyonight&layout=compact&hide_border=true&border_radius=10&bg_color=1F222E" alt="Top Languages"> 
 </div>
 
