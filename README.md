@@ -45,8 +45,9 @@ const rokib: Profile<Focus, Skill[]> = {
 ### 📊 GitHub Statistics 📊
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/rokib97?cardType=level&theme=tokyonight" alt="Rokib's GitHub Stats">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rokib97&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ### 🤝 Connect with Me 🤝
