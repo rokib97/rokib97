@@ -9,23 +9,14 @@ Passionate about building performant, scalable web applications and leading impa
 ### ⚙️ Core Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgresql,redis,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,mongodb,postgresql,redis,docker,linux,git" />
 </div>
 
 - **Frontend:** React, Next.js, TypeScript, TailwindCSS  
-- **Backend:** Node.js, Express.js, PostgreSQL, Redis  
+- **Backend:** Node.js, Express.js, Python, PostgreSQL, MongoDB, Redis  
 - **DevOps:** Docker, Linux, CI/CD  
+- **Computer Science:** Data Structures & Algorithms, Problem Solving  
 - **Tools:** Git, VSCode, Postman
-
----
-
-### 📊 GitHub Insights
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rokib97&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
