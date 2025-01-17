@@ -1,32 +1,48 @@
-## 👋 Hi, I'm Rokib
+# 👋 Hey, I'm Rokib
 
-### 🚀 Full Stack Developer | Coding Educator | Tech Enthusiast
+### 💼 Full Stack Engineer | Tech Mentor | Open Source Contributor
 
-### 🛠️ Tech Stack
+Passionate about building performant, scalable web applications and leading impactful projects with clean architecture and modern tech.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgresql,redis,docker,linux" />
-</div>
+---
 
-### 📈 GitHub Stats
+### ⚙️ Core Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rokib97&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgresql,redis,docker,linux,git" />
 </div>
 
-### 📬 Connect with Me
+- **Frontend:** React, Next.js, TypeScript, TailwindCSS  
+- **Backend:** Node.js, Express.js, PostgreSQL, Redis  
+- **DevOps:** Docker, Linux, CI/CD  
+- **Tools:** Git, VSCode, Postman
+
+---
+
+### 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rokib97&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rokib97&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rokibul97/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rokibulhasan.ph@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://fb.com/rokib97">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
 
 ---
 
-> **"Building scalable web applications with clean code and innovative solutions."**
+> **"Simplicity, performance, and scalability—every line of code counts."**
