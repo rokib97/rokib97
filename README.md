@@ -1,3 +1,4 @@
+
 # 👋 Hey, I'm Rokib
 
 ### 💼 Full Stack Engineer | Tech Mentor | Open Source Contributor
@@ -9,12 +10,11 @@ Passionate about building performant, scalable web applications and leading impa
 ### ⚙️ Core Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,mongodb,postgresql,redis,docker,linux,git" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,mongodb,postgresql,linux,git" />
 </div>
 
 - **Frontend:** React, Next.js, TypeScript, TailwindCSS  
-- **Backend:** Node.js, Express.js, Python, PostgreSQL, MongoDB, Redis  
-- **DevOps:** Docker, Linux, CI/CD  
+- **Backend:** Node.js, Express.js, Python, PostgreSQL, MongoDB  
 - **Computer Science:** Data Structures & Algorithms, Problem Solving  
 - **Tools:** Git, VSCode, Postman
 
@@ -37,3 +37,4 @@ Passionate about building performant, scalable web applications and leading impa
 ---
 
 > **"Simplicity, performance, and scalability—every line of code counts."**
+
