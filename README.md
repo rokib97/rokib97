@@ -35,7 +35,7 @@
       <samp>
         [ <a href="">about me</a> .
         <a href="">projects</a> .
-        <a href="mailto:rokibulhasan.ph%40gmail.com">contact</a> ]
+        <a href="https://www.linkedin.com/in/0xrokib/">contact</a> ]
       </samp>
     </p>
     <h2></h2>
