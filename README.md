@@ -9,7 +9,7 @@
       <b>
         Welcome
         <br />
-        I'm Rokibul Hasan Rokib, a Software Engineer.
+        I'm Rokibul Hasan Rokib, a Full Stack Engineer.
       </b>
       <br />
       <img
