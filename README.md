@@ -61,6 +61,15 @@
               />
             </a>
           </td>
+          <td>
+            <a href="#--------">
+              <img
+                align="center"
+                alt="GitHub Streak"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
+              />
+            </a>
+          </td>
         </tr>
       </table>
     </div>
