@@ -3,26 +3,28 @@
     <strong><samp>「</samp></strong>
   </p>
 
-  <samp>
-    <b>
-      Welcome<br />
+  <p align="center">
+    <samp>
+      <b>Welcome</b>
+      <br />
       I'm Rokibul Hasan Rokib, a Full Stack Engineer.
-    </b>
-    <br />
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
-      alt="Typing SVG"
-    />
-  </samp>
+      <br />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
+        alt="Typing SVG"
+      />
+    </samp>
+  </p>
 
   <p align="right">
     <strong><samp>」</samp></strong>
   </p>
 
   <details>
-    <summary><samp><b>More Info</b></samp></summary>
+    <summary>
+      <samp><b>More Info</b></samp>
+    </summary>
     <br />
-
     <p align="center">
       <samp>
         [ <a href="">about me</a> •
@@ -30,10 +32,7 @@
         <a href="https://www.linkedin.com/in/0xrokib/">contact</a> ]
       </samp>
     </p>
-
     <br />
-
-    <!-- Stats Section -->
     <div align="center">
       <table>
         <tr>
@@ -43,6 +42,15 @@
                 align="center"
                 alt="GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+              />
+            </a>
+          </td>
+          <td>
+            <a href="#top-languages">
+              <img
+                align="center"
+                alt="Top Languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
               />
             </a>
           </td>
@@ -57,15 +65,12 @@
           </td>
         </tr>
       </table>
-    </div>
-
-    <!-- Most Used Languages Section -->
-    <div align="center">
-      <h3><samp>🚀 Most Used Languages</samp></h3>
-      <a href="#most-used-languages">
+      <br />
+      <a href="#most-used-language">
         <img
-          alt="Most Used Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&layout=donut&hide_border=true&langs_count=8&theme=tokyonight"
+          align="center"
+          alt="Most Used Language"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&layout=compact&hide_border=true&theme=tokyonight&langs_count=1"
         />
       </a>
     </div>
