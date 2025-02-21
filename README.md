@@ -56,10 +56,9 @@
           </td>
         </tr>
         <tr>
-          <td colspan="2" align="center">
+          <td align="center" colspan="2">
             <a href="#top-languages">
               <img
-                align="center"
                 alt="Top Languages"
                 width="350"
                 height="175"
