@@ -20,12 +20,12 @@
     <strong><samp>」</samp></strong>
   </p>
 
-  <details>
+  <details align="left">
     <summary>
       <samp><b>More Info</b></samp>
     </summary>
     <br />
-    <p align="center">
+    <p align="left">
       <samp>
         [ <a href="">about me</a> •
         <a href="">projects</a> •
@@ -55,9 +55,8 @@
             </a>
           </td>
         </tr>
-      </table>
-      <br />
-       <td>
+        <tr>
+          <td colspan="2">
             <a href="#top-languages">
               <img
                 align="center"
@@ -66,6 +65,8 @@
               />
             </a>
           </td>
+        </tr>
+      </table>
     </div>
   </details>
 </div>
