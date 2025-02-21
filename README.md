@@ -62,7 +62,7 @@
                 alt="Top Languages"
                 width="90%" <!-- Reduced width for better sizing -->
                 style="display: block; margin: 0 auto;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
             </a>
           </td>
