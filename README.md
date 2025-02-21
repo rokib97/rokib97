@@ -48,7 +48,7 @@
               <img
                 align="center"
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=rokib97&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
@@ -57,7 +57,7 @@
               <img
                 align="center"
                 alt="Top Language"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokib97&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
               />
             </a>
           </td>
