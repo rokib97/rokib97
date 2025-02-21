@@ -68,6 +68,7 @@
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
+            <!-- Leetcode Stats using Shields.io -->
             <a href="https://leetcode.com/0xRokib/">
               <img
                 src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
@@ -75,10 +76,11 @@
               />
             </a>
             <br /><br />
-            <a href="https://leetcode-stats-api.herokuapp.com/?username=0xRokib">
+            <!-- Leetcode Stats with Problems Solved in Easy, Medium, Hard -->
+            <a href="https://leetcode.com/0xRokib/">
               <img
+                src="https://leetbadge.herokuapp.com/0xRokib"
                 alt="LeetCode Stats"
-                src="https://leetcode-stats-api.herokuapp.com/?username=0xRokib"
                 style="width: 100%; max-width: 350px;"
               />
             </a>
