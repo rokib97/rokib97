@@ -68,12 +68,12 @@
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
-            <!-- Leetcode stats card using your Leetcode user ID -->
+            <!-- Custom Leetcode Stats image -->
             <a href="https://leetcode.com/0xRokib/">
               <img
                 alt="Leetcode Stats"
-                src="https://leetcode.card.workers.dev/?username=0xRokib"
-              />
+                src="https://raw.githubusercontent.com/antonkomarev/github-profile-README-generator/master/src/images/leetcode.svg"
+                width="350" height="175" />
             </a>
           </td>
         </tr>
