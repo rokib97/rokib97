@@ -44,7 +44,7 @@
       <table>
         <tr>
           <td>
-            <a href="#--------">
+            <a href="#github-stats">
               <img
                 align="center"
                 alt="GitHub Stats"
@@ -53,20 +53,20 @@
             </a>
           </td>
           <td>
-            <a href="#--------">
+            <a href="#top-languages">
               <img
                 align="center"
-                alt="Top Language"
+                alt="Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
               />
             </a>
           </td>
           <td>
-            <a href="#--------">
+            <a href="#streak-stats">
               <img
                 align="center"
                 alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
+                src="https://streak-stats.demolab.com/?user=0xRokib&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
