@@ -35,7 +35,7 @@
     <br />
     <div style="max-width: 800px; margin: 0 auto;">
       <table style="width: 100%; text-align: center;">
-        <!-- First row with two columns for stats and streaks -->
+        <!-- First row with GitHub Stats and Streaks -->
         <tr>
           <td style="width: 50%; padding: 10px; vertical-align: top;">
             <a href="#github-stats">
@@ -54,9 +54,22 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with Tech Stack and Leetcode & Hackerrank badges -->
+        <!-- Second row with Top Languages -->
         <tr>
-          <td style="width: 50%; padding: 10px; vertical-align: top;">
+          <td colspan="2" style="padding: 10px;">
+            <a href="#top-languages">
+              <img
+                alt="Top Languages"
+                width="100%"
+                style="display: block; margin: 0 auto;"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
+              />
+            </a>
+          </td>
+        </tr>
+        <!-- Third row with Tech Stack -->
+        <tr>
+          <td colspan="2" style="padding: 10px;">
             <p><b>Tech Stack:</b></p>
             <p>
               <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -74,21 +87,24 @@
               <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
             </p>
           </td>
-          <td style="width: 50%; padding: 10px; vertical-align: top;">
-            <p>
-              <a href="https://leetcode.com/u/0xRokib/">
-                <img
-                  src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
-                  alt="Leetcode Profile"
-                />
-              </a>
-              <a href="https://www.hackerrank.com/rokibulhasan_ph">
-                <img
-                  src="https://img.shields.io/badge/HackerRank-rokibulhasan_ph-brightgreen?style=for-the-badge&logo=hackerrank"
-                  alt="HackerRank Profile"
-                />
-              </a>
-            </p>
+        </tr>
+        <!-- Fourth row with LeetCode and HackerRank badges -->
+        <tr>
+          <td style="width: 50%; padding: 10px;">
+            <a href="https://leetcode.com/u/0xRokib/">
+              <img
+                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
+                alt="Leetcode Profile"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px;">
+            <a href="https://www.hackerrank.com/0xRokib">
+              <img
+                src="https://img.shields.io/badge/HackerRank-0xRokib-brightgreen?style=for-the-badge&logo=hackerrank"
+                alt="HackerRank Profile"
+              />
+            </a>
           </td>
         </tr>
       </table>
