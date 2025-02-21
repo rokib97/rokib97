@@ -37,7 +37,7 @@
       <table style="width: 100%; text-align: center;">
         <!-- First row with two columns for stats and streaks -->
         <tr>
-          <td style="width: 50%; padding: 10px;">
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
@@ -45,7 +45,7 @@
               />
             </a>
           </td>
-          <td style="width: 50%; padding: 10px;">
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
@@ -54,29 +54,10 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with Top Languages and Leetcode badge -->
+        <!-- Second row with Tech Stack and Leetcode & Hackerrank badges -->
         <tr>
-          <td style="width: 50%; padding: 10px;">
-            <a href="#top-languages">
-              <img
-                alt="Top Languages"
-                width="350"
-                height="175"
-                style="display: block; margin: 0 auto;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=false&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
-              />
-            </a>
-          </td>
-          <td style="width: 50%; padding: 10px;">
-            <a href="https://leetcode.com/u/0xRokib/">
-              <img
-                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
-                alt="Leetcode Profile"
-              />
-            </a>
-            <br /><br />
-            <!-- Tech Stack Badges -->
-            <p>Tech Stack:</p>
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
+            <p><b>Tech Stack:</b></p>
             <p>
               <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -84,9 +65,29 @@
               <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
               <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
               <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+              <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
               <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+              <img src="https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
               <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
               <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+              <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+              <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+            </p>
+          </td>
+          <td style="width: 50%; padding: 10px; vertical-align: top;">
+            <p>
+              <a href="https://leetcode.com/u/0xRokib/">
+                <img
+                  src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
+                  alt="Leetcode Profile"
+                />
+              </a>
+              <a href="https://www.hackerrank.com/rokibulhasan_ph">
+                <img
+                  src="https://img.shields.io/badge/HackerRank-rokibulhasan_ph-brightgreen?style=for-the-badge&logo=hackerrank"
+                  alt="HackerRank Profile"
+                />
+              </a>
             </p>
           </td>
         </tr>
