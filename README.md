@@ -33,11 +33,11 @@
       </samp>
     </p>
     <br />
-    <div style="max-width: 600px; margin: 0 auto;">
-      <table>
+    <div style="max-width: 800px; margin: 0 auto;">
+      <table style="width: 100%; text-align: center;">
         <!-- First row with two columns for stats and streaks -->
         <tr>
-          <td style="text-align: center;">
+          <td style="width: 50%; padding: 10px;">
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
@@ -45,7 +45,7 @@
               />
             </a>
           </td>
-          <td style="text-align: center;">
+          <td style="width: 50%; padding: 10px;">
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
@@ -54,20 +54,29 @@
             </a>
           </td>
         </tr>
+        <!-- Second row with two columns for top languages and leetcode stats -->
+        <tr>
+          <td style="width: 50%; padding: 10px;">
+            <a href="#top-languages">
+              <img
+                alt="Top Languages"
+                width="350"
+                height="175"
+                style="display: block; margin: 0 auto;"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 10px;">
+            <a href="#leetcode-stats">
+              <img
+                alt="Leetcode Stats"
+                src="https://leetcode.card.workers.dev/?username=0xrokib"
+              />
+            </a>
+          </td>
+        </tr>
       </table>
-    </div>
-    <br />
-    <!-- Top Languages Image Below Table -->
-    <div style="max-width: 600px; margin: 0 auto; text-align: center;">
-      <a href="#top-languages">
-        <img
-          alt="Top Languages"
-          width="350"
-          height="175"
-          style="display: block; margin: 0 auto;"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
-        />
-      </a>
     </div>
   </details>
 </div>
