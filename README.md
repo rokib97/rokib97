@@ -74,6 +74,14 @@
                 alt="Leetcode Profile"
               />
             </a>
+            <br /><br />
+            <a href="https://leetcode-stats-api.herokuapp.com/?username=0xRokib">
+              <img
+                alt="LeetCode Stats"
+                src="https://leetcode-stats-api.herokuapp.com/?username=0xRokib"
+                style="width: 100%; max-width: 350px;"
+              />
+            </a>
           </td>
         </tr>
       </table>
