@@ -25,7 +25,7 @@
       <samp><b>More Info</b></samp>
     </summary>
     <br />
-    <p align="left">
+    <p align="center">
       <samp>
         [ <a href="">about me</a> •
         <a href="">projects</a> •
@@ -56,12 +56,14 @@
           </td>
         </tr>
         <tr>
-          <td colspan="2">
+          <td colspan="2" align="center">
             <a href="#top-languages">
               <img
                 align="center"
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
+                width="400"
+                height="200"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
               />
             </a>
           </td>
