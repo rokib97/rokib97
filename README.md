@@ -69,7 +69,7 @@
           </td>
           <td style="width: 50%; padding: 10px;">
             <!-- Custom Leetcode Stats image -->
-            <a href="https://leetcode.com/0xRokib/">
+            <a href="https://leetcode.com/0xrokib/">
               <img
                 alt="Leetcode Stats"
                 src="https://raw.githubusercontent.com/antonkomarev/github-profile-README-generator/master/src/images/leetcode.svg"
