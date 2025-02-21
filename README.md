@@ -54,36 +54,16 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with two columns for top languages and Leetcode badge -->
+        <!-- Second row with Leetcode profile link -->
         <tr>
-          <td style="width: 50%; padding: 10px;">
-            <a href="#top-languages">
-              <img
-                alt="Top Languages"
-                width="350"
-                height="175"
-                style="display: block; margin: 0 auto;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=false&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
-              />
-            </a>
-          </td>
-          <td style="width: 50%; padding: 10px;">
-            <!-- Leetcode Stats using Shields.io -->
-            <a href="https://leetcode.com/0xRokib/">
+          <td colspan="2" style="padding: 10px;">
+            <a href="https://leetcode.com/u/0xRokib/">
               <img
                 src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
                 alt="Leetcode Profile"
               />
             </a>
-            <br /><br />
-            <!-- Leetcode Stats with Problems Solved in Easy, Medium, Hard -->
-            <a href="https://leetcode.com/0xRokib/">
-              <img
-                src="https://leetbadge.herokuapp.com/0xRokib"
-                alt="LeetCode Stats"
-                style="width: 100%; max-width: 350px;"
-              />
-            </a>
+            <p>Check out my LeetCode profile for problem-solving stats and progress!</p>
           </td>
         </tr>
       </table>
