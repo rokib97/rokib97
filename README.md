@@ -33,30 +33,30 @@
       </samp>
     </p>
     <br />
-    <div style="max-width: 500px; margin: 0 auto;">
+    <div style="max-width: 600px; margin: 0 auto;">
       <table>
+        <!-- First row with two columns -->
         <tr>
-          <td>
+          <td style="text-align: center;">
             <a href="#github-stats">
               <img
-                align="center"
                 alt="GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
-          <td>
+          <td style="text-align: center;">
             <a href="#streak-stats">
               <img
-                align="center"
                 alt="GitHub Streak"
                 src="https://streak-stats.demolab.com/?user=0xRokib&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
         </tr>
+        <!-- Second row with centered column -->
         <tr>
-          <td align="center" colspan="2" style="padding: 0; width: auto;">
+          <td colspan="2" style="text-align: center; padding: 20px 0;">
             <a href="#top-languages">
               <img
                 alt="Top Languages"
