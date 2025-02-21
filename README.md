@@ -54,7 +54,7 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with two columns for top languages and Leetcode stats -->
+        <!-- Second row with two columns for top languages and Leetcode badge -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="#top-languages">
@@ -70,8 +70,8 @@
           <td style="width: 50%; padding: 10px;">
             <a href="https://leetcode.com/0xRokib/">
               <img
-                src="https://leetcode-stats-codestats.vercel.app/api?username=0xRokib&theme=tokyonight"
-                alt="Leetcode Stats"
+                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=flat-square"
+                alt="Leetcode Profile"
               />
             </a>
           </td>
