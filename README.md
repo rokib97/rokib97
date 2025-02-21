@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p align="left">
     <strong><samp>「</samp></strong>
   </p>
@@ -33,7 +33,7 @@
       </samp>
     </p>
     <br />
-    <div align="center" style="max-width: 500px; margin: 0 auto;">
+    <div style="max-width: 500px; margin: 0 auto;">
       <table>
         <tr>
           <td>
