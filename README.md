@@ -54,13 +54,13 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with Top Languages -->
+        <!-- Second row with Top Languages (compact) -->
         <tr>
           <td colspan="2" style="padding: 10px;">
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                width="70%"
+                width="80%"
                 style="display: block; margin: 0 auto;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
