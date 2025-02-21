@@ -50,9 +50,9 @@
   </div>
 
   <div align="center">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
-      alt="GitHub Streak Stats"
-    />
-  </div>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
+    alt="GitHub Streak Stats"
+  />
+</div>
 </details>
