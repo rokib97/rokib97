@@ -68,11 +68,12 @@
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
-            <!-- Custom Leetcode Stats image -->
             <a href="https://leetcode.com/0xRokib/">
-  <img src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=flat-square" alt="Leetcode Profile">
-</a>
-
+              <img
+                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=flat-square"
+                alt="Leetcode Profile"
+              />
+            </a>
           </td>
         </tr>
       </table>
