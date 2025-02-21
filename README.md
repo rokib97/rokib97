@@ -67,17 +67,6 @@
               />
             </a>
           </td>
-          <td style="width: 50%; padding: 10px;">
-            <a href="#code-stats">
-              <img
-                alt="Code Stats"
-                height="160" 
-                width="350" 
-                style="display: block; margin: 0 auto;"
-                src="https://github-readme-stats.vercel.app/api/pin/?username=0xRokib&repo=your-repository-name&theme=tokyonight"
-              />
-            </a>
-          </td>
         </tr>
         <!-- Third row with Tech Stack -->
         <tr>
