@@ -56,12 +56,13 @@
           </td>
         </tr>
         <tr>
-          <td align="center" colspan="2">
+          <td align="center" colspan="2" style="padding: 0; width: auto;">
             <a href="#top-languages">
               <img
                 alt="Top Languages"
                 width="350"
                 height="175"
+                style="display: block; margin: 0 auto;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
               />
             </a>
