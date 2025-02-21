@@ -46,15 +46,6 @@
             </a>
           </td>
           <td>
-            <a href="#top-languages">
-              <img
-                align="center"
-                alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
-              />
-            </a>
-          </td>
-          <td>
             <a href="#streak-stats">
               <img
                 align="center"
@@ -66,13 +57,15 @@
         </tr>
       </table>
       <br />
-      <a href="#most-used-language">
-        <img
-          align="center"
-          alt="Most Used Language"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&layout=compact&hide_border=true&theme=tokyonight&langs_count=1"
-        />
-      </a>
+       <td>
+            <a href="#top-languages">
+              <img
+                align="center"
+                alt="Top Languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=10&theme=tokyonight"
+              />
+            </a>
+          </td>
     </div>
   </details>
 </div>
