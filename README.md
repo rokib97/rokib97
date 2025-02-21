@@ -60,7 +60,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                width="90%" <!-- Reduced width for better sizing -->
+                width="70%"
                 style="display: block; margin: 0 auto;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
