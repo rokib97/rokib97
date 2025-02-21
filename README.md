@@ -33,7 +33,7 @@
       </samp>
     </p>
     <br />
-    <div align="center">
+    <div align="center" style="max-width: 500px; margin: 0 auto;">
       <table>
         <tr>
           <td>
@@ -61,8 +61,8 @@
               <img
                 align="center"
                 alt="Top Languages"
-                width="400"
-                height="200"
+                width="350"
+                height="175"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
               />
             </a>
