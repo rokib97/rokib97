@@ -35,7 +35,7 @@
     <br />
     <div style="max-width: 600px; margin: 0 auto;">
       <table>
-        <!-- First row with two columns -->
+        <!-- First row with two columns for stats and streaks -->
         <tr>
           <td style="text-align: center;">
             <a href="#github-stats">
@@ -54,21 +54,20 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with centered column -->
-        <tr>
-          <td colspan="2" style="text-align: center; padding: 20px 0;">
-            <a href="#top-languages">
-              <img
-                alt="Top Languages"
-                width="350"
-                height="175"
-                style="display: block; margin: 0 auto;"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
-              />
-            </a>
-          </td>
-        </tr>
       </table>
+    </div>
+    <br />
+    <!-- Top Languages Image Below Table -->
+    <div style="max-width: 600px; margin: 0 auto; text-align: center;">
+      <a href="#top-languages">
+        <img
+          alt="Top Languages"
+          width="350"
+          height="175"
+          style="display: block; margin: 0 auto;"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&hide_progress=true&layout=compact&hide_border=true&langs_count=6&theme=tokyonight"
+        />
+      </a>
     </div>
   </details>
 </div>
