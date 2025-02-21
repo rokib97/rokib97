@@ -54,7 +54,7 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with two columns for top languages and leetcode stats -->
+        <!-- Second row with two columns for top languages and Leetcode stats -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="#top-languages">
@@ -68,10 +68,11 @@
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
-            <a href="#leetcode-stats">
+            <!-- Leetcode stats card using your Leetcode user ID -->
+            <a href="https://leetcode.com/0xRokib/">
               <img
                 alt="Leetcode Stats"
-                src="https://leetcode.card.workers.dev/?username=0xrokib"
+                src="https://leetcode.card.workers.dev/?username=0xRokib"
               />
             </a>
           </td>
