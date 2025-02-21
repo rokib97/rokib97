@@ -54,7 +54,7 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with top languages and Leetcode badge -->
+        <!-- Second row with Top Languages and Leetcode Stats -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="#top-languages">
@@ -75,14 +75,15 @@
               />
             </a>
             <br /><br />
-            <!-- Leetcode Stats Graph using Leetcode-stats API -->
+            <!-- Leetcode Stats using GitHub Action -->
             <a href="https://github.com/antonkomarev/github-profile-README-generator">
               <img
                 alt="LeetCode Stats"
-                src="https://leet-stats-api.herokuapp.com/?username=0xRokib"
+                src="https://leetcode-stats-api.herokuapp.com/?username=0xRokib"
                 style="width: 100%; max-width: 350px;"
               />
             </a>
+            <br />
           </td>
         </tr>
       </table>
