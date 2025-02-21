@@ -54,7 +54,7 @@
             </a>
           </td>
         </tr>
-        <!-- Second row with Top Languages and Leetcode Stats -->
+        <!-- Second row with Top Languages and Leetcode badge -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="#top-languages">
@@ -75,15 +75,19 @@
               />
             </a>
             <br /><br />
-            <!-- Leetcode Stats using GitHub Action -->
-            <a href="https://github.com/antonkomarev/github-profile-README-generator">
-              <img
-                alt="LeetCode Stats"
-                src="https://leetcode-stats-api.herokuapp.com/?username=0xRokib"
-                style="width: 100%; max-width: 350px;"
-              />
-            </a>
-            <br />
+            <!-- Tech Stack Badges -->
+            <p>Tech Stack:</p>
+            <p>
+              <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+              <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+              <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+              <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+              <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+            </p>
           </td>
         </tr>
       </table>
