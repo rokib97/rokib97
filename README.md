@@ -49,7 +49,7 @@
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
+                src="https://streak-stats.demolab.com?user=0xRokib&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
@@ -60,19 +60,20 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                height="160" 
-                width="350" 
+                height="160"
+                width="350"
                 style="display: block; margin: 0 auto;"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true"
               />
             </a>
           </td>
         </tr>
-        <!-- Tech Stack -->
+        <!-- Third row with Tech Stack -->
         <tr>
           <td colspan="2" style="padding: 10px;">
             <p><b>Tech Stack:</b></p>
             <p>
+              <!-- Language and tools badges -->
               <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
               <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -92,27 +93,17 @@
               <img src="https://img.shields.io/badge/NPM-CC3534?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
               <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
               <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-              <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
               <img src="https://img.shields.io/badge/Chart.js-F7A1A1?style=for-the-badge&logo=chart.js&logoColor=black" alt="Chart.js" />
               <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
               <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
               <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-              <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-              <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-              <img src="https://img.shields.io/badge/Vim-199f2b?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-              <img src="https://img.shields.io/badge/Shell-89E051?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-              <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-              <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-              <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-              <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS" />
-              <img src="https://img.shields.io/badge/Zorin_OS-169A3B?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS" />
               <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+              <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+              <img src="https://img.shields.io/badge/Zorin_OS-169A3B?style=for-the-badge&logo=zorin&logoColor=white" alt="Zorin OS" />
             </p>
           </td>
         </tr>
-        <!-- LeetCode and HackerRank -->
+        <!-- Fourth row with LeetCode and HackerRank badges -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="https://leetcode.com/u/0xRokib/">
