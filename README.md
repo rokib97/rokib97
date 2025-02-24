@@ -53,9 +53,8 @@
               />
             </a>
           </td>
-
         </tr>
-        <!-- Second row with Top Languages and Code-related Stats -->
+        <!-- Second row with Top Languages -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="#top-languages">
@@ -69,7 +68,7 @@
             </a>
           </td>
         </tr>
-        <!-- Third row with Tech Stack -->
+        <!-- Tech Stack -->
         <tr>
           <td colspan="2" style="padding: 10px;">
             <p><b>Tech Stack:</b></p>
@@ -87,7 +86,6 @@
               <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
               <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
               <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-              <!-- Additional Tech Stack -->
               <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
               <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
               <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -114,7 +112,7 @@
             </p>
           </td>
         </tr>
-        <!-- Fourth row with LeetCode and HackerRank badges -->
+        <!-- LeetCode and HackerRank -->
         <tr>
           <td style="width: 50%; padding: 10px;">
             <a href="https://leetcode.com/u/0xRokib/">
