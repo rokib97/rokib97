@@ -49,10 +49,11 @@
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
-                src="https://streak-stats.demolab.com/?user=0xRokib&hide_border=true&theme=tokyonight"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
+
         </tr>
         <!-- Second row with Top Languages and Code-related Stats -->
         <tr>
