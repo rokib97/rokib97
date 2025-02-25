@@ -49,7 +49,7 @@
             <a href="#streak-stats">
               <img
                 alt="GitHub Streak"
-                src="https://github-readme-streak-stats.vercel.app?user=0xRokib&hide_border=true&theme=tokyonight"
+                src="https://streak-stats.demolab.com?user=0xRokib&hide_border=true&theme=tokyonight"
               />
             </a>
           </td>
