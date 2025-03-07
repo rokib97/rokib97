@@ -10,7 +10,7 @@
       I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4¢er=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
         alt="Typing SVG"
       />
     </samp>
@@ -106,6 +106,18 @@
                 style="border-radius: 8px; border: 1px solid #7209b7;"
               />
             </a>
+          </td>
+        </tr>
+        <!-- New Connect with Me Section -->
+        <tr>
+          <td colspan="2" style="padding: 15px;">
+            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
+            <p style="font-size: 16px; color: #e0fbfc; margin: 0;">
+              <samp>
+                [ <a href="mailto:rokibulhasan.ph@gmail.com" style="color: #00f5d4; text-decoration: none; font-weight: bold;">email</a> •
+                <a href="https://facebook.com/0xrokib" style="color: #00f5d4; text-decoration: none; font-weight: bold;">facebook</a> ]
+              </samp>
+            </p>
           </td>
         </tr>
       </table>
