@@ -108,15 +108,25 @@
             </a>
           </td>
         </tr>
-        <!-- New Connect with Me Section -->
+        <!-- Enhanced Connect with Me Section -->
         <tr>
           <td colspan="2" style="padding: 15px;">
             <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
-            <p style="font-size: 16px; color: #e0fbfc; margin: 0;">
-              <samp>
-                [ <a href="mailto:rokibulhasan.ph@gmail.com" style="color: #00f5d4; text-decoration: none; font-weight: bold;">email</a> •
-                <a href="https://facebook.com/0xrokib" style="color: #00f5d4; text-decoration: none; font-weight: bold;">facebook</a> ]
-              </samp>
+            <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+              <a href="mailto:rokibulhasan.ph@gmail.com" style="text-decoration: none;">
+                <img
+                  src="https://img.shields.io/badge/Email-00f5d4?style=for-the-badge&logo=gmail&logoColor=7209b7"
+                  alt="Email"
+                  style="border-radius: 8px; border: 1px solid #7209b7;"
+                />
+              </a>
+              <a href="https://facebook.com/0xrokib" style="text-decoration: none;">
+                <img
+                  src="https://img.shields.io/badge/Facebook-00f5d4?style=for-the-badge&logo=facebook&logoColor=7209b7"
+                  alt="Facebook"
+                  style="border-radius: 8px; border: 1px solid #7209b7;"
+                />
+              </a>
             </p>
           </td>
         </tr>
