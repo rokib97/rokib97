@@ -10,7 +10,7 @@
       I'm <span style="color: #f7768e; font-weight: bold; font-size: 20px; background: rgba(247, 118, 142, 0.1); padding: 2px 8px; border-radius: 5px;">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8¢er=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
         alt="Typing SVG"
       />
     </samp>
@@ -40,7 +40,7 @@
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula&custom_title=Code%20Stats&bg_color=1e1e2f&title_color=9d7cd8&icon_color=f7768e&text_color=c0caf5"
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula&custom_title=Code%20Stats&bg_color=1e1e2f&title_color=9d7cd8&icon_color=f7768e&text_color=c0caf5&cache_seconds=86400"
                 style="border-radius: 10px; border: 1px solid #7aa2f7;"
               />
             </a>
@@ -49,7 +49,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=dracula&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=1e1e2f&title_color=9d7cd8&icon_color=f7768e&text_color=c0caf5"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=dracula&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=1e1e2f&title_color=9d7cd8&icon_color=f7768e&text_color=c0caf5&cache_seconds=86400"
                 style="border-radius: 10px; border: 1px solid #7aa2f7;"
               />
             </a>
