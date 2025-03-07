@@ -10,7 +10,7 @@
       I'm <span style="color: #f7768e; font-weight: bold; font-size: 20px; background: rgba(247, 118, 142, 0.1); padding: 2px 8px; border-radius: 5px;">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs;Building+scalable+web+solutions;Turning+ideas+into+code"
         alt="Typing SVG"
       />
     </samp>
@@ -27,8 +27,8 @@
     <br />
     <p align="center" style="font-size: 16px; margin: 0;">
       <samp>
-        [ <a href="" style="color: #f7768e; text-decoration: none; font-weight: bold;">about me</a> •
-        <a href="" style="color: #f7768e; text-decoration: none; font-weight: bold;">projects</a> •
+        [ <a href="https://rokibulhasan.com" style="color: #f7768e; text-decoration: none; font-weight: bold;">about me</a> •
+        <a href="https://github.com/0xRokib?tab=repositories" style="color: #f7768e; text-decoration: none; font-weight: bold;">projects</a> •
         <a href="https://www.linkedin.com/in/0xrokib/" style="color: #f7768e; text-decoration: none; font-weight: bold;">contact</a> ]
       </samp>
     </p>
@@ -50,6 +50,18 @@
               <img
                 alt="Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=dracula&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=1e1e2f&title_color=9d7cd8&icon_color=f7768e&text_color=c0caf5&cache_seconds=86400"
+                style="border-radius: 10px; border: 1px solid #7aa2f7;"
+              />
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" style="padding: 15px;">
+            <!-- Added GitHub Streak Stats -->
+            <a href="#streak-stats">
+              <img
+                alt="GitHub Streak"
+                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&theme=dracula&hide_border=true&background=1e1e2f&stroke=7aa2f7&ring=f7768e&fire=f7768e&currStreakNum=c0caf5&sideNums=c0caf5&currStreakLabel=9d7cd8&sideLabels=9d7cd8&dates=c0caf5"
                 style="border-radius: 10px; border: 1px solid #7aa2f7;"
               />
             </a>
@@ -106,6 +118,35 @@
                 style="border-radius: 8px; border: 1px solid #9d7cd8;"
               />
             </a>
+          </td>
+        </tr>
+        <!-- Added Social Badges and Visitor Counter -->
+        <tr>
+          <td colspan="2" style="padding: 15px;">
+            <p style="font-size: 20px; color: #9d7cd8; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
+            <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+              <a href="https://twitter.com/0xRokib" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1e1e2f" alt="Twitter" />
+              </a>
+              <a href="https://www.linkedin.com/in/0xrokib/" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=c0caf5" alt="LinkedIn" />
+              </a>
+              <a href="mailto:rokibulhasan@example.com" style="text-decoration: none;">
+                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=f7768e" alt="Email" />
+              </a>
+            </p>
+            <p style="margin-top: 15px;">
+              <img src="https://visitor-badge.laobi.icu/badge?page_id=0xRokib.0xRokib&left_color=1e1e2f&right_color=9d7cd8&left_text=Visitors" alt="Visitor Counter" />
+            </p>
+          </td>
+        </tr>
+        <!-- Added Fun Quote Section -->
+        <tr>
+          <td colspan="2" style="padding: 15px;">
+            <p style="font-size: 20px; color: #9d7cd8; font-weight: bold; margin: 10px 0;">Random Thought:</p>
+            <p style="font-size: 16px; color: #c0caf5; text-align: center; font-style: italic;">
+              "Code is like poetry—when it works, it’s magic; when it doesn’t, it’s a puzzle worth solving."
+            </p>
           </td>
         </tr>
       </table>
