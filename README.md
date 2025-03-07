@@ -27,7 +27,7 @@
     <br />
     <p align="center" style="font-size: 16px; margin: 0;">
       <samp>
-        [ <a href="https://rokibulhasan.com" style="color: #00f5d4; text-decoration: none; font-weight: bold;">about me</a> •
+        [ <a href="" style="color: #00f5d4; text-decoration: none; font-weight: bold;">about me</a> •
         <a href="https://github.com/0xRokib?tab=repositories" style="color: #00f5d4; text-decoration: none; font-weight: bold;">projects</a> •
         <a href="https://www.linkedin.com/in/0xrokib/" style="color: #00f5d4; text-decoration: none; font-weight: bold;">contact</a> ]
       </samp>
