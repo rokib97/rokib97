@@ -10,7 +10,7 @@
       I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4¢er=true&vCenter=true&width=435&lines=Crafting+tech+masterpieces;Engineering+the+future;Code+is+my+superpower"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4¢er=true&vCenter=true&width=435&lines=Build+%F0%9F%9B%A0%EF%B8%8F;Break+%F0%9F%92%A5;Learn+%F0%9F%93%9A;Repeat+%F0%9F%94%84"
         alt="Typing SVG"
       />
     </samp>
@@ -50,17 +50,6 @@
               <img
                 alt="Top Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
-                style="border-radius: 10px; border: 1px solid #00f5d4;"
-              />
-            </a>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <a href="#trophies">
-              <img
-                alt="GitHub Trophies"
-                src="https://github-profile-trophy.vercel.app/?username=0xRokib&theme=onedark&no-frame=true&margin-w=15&column=7&row=1&bg_color=0d1b2a&title_color=7209b7&text_color=e0fbfc"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
