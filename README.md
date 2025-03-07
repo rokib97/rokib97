@@ -10,7 +10,7 @@
       I'm <span style="color: #7209b7; font-weight: bold; font-size: 20px; background: rgba(114, 9, 183, 0.1); padding: 2px 8px; border-radius: 5px; box-shadow: 0 0 10px rgba(114, 9, 183, 0.5);">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
-        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4¢er=true&vCenter=true&width=435&lines=Build+%F0%9F%9B%A0%EF%B8%8F;Break+%F0%9F%92%A5;Learn+%F0%9F%93%9A;Repeat+%F0%9F%94%84"
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=00F5D4¢er=true&vCenter=true&width=435&lines=Build.+Break.+Learn.+Repeat."
         alt="Typing SVG"
       />
     </samp>
