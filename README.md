@@ -1,13 +1,13 @@
-<div style="font-family: 'Iosevka', monospace; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 20px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); max-width: 800px; margin: 0 auto; color: #e0e0e0;">
+<div style="font-family: 'Iosevka', monospace; background: #1a1a2e; padding: 20px; border: 2px solid #9d7cd8; border-radius: 15px; max-width: 800px; margin: 0 auto; color: #e0e0e0;">
   <p align="left" style="font-size: 24px; color: #9d7cd8; margin: 0;">
     <strong><samp>「</samp></strong>
   </p>
 
   <p align="center" style="margin: 10px 0;">
     <samp>
-      <b style="font-size: 28px; color: #ffffff; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);">Welcome</b>
+      <b style="font-size: 28px; color: #ffffff;">Welcome</b>
       <br />
-      I'm <span style="color: #9d7cd8;">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
+      I'm <span style="color: #9d7cd8; font-weight: bold;">Rokibul Hasan Rokib</span>, a Full Stack Engineer.
       <br />
       <img
         src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8¢er=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs;Building+the+future+one+line+at+a+time"
@@ -21,7 +21,7 @@
     <strong><samp>」</samp></strong>
   </p>
 
-  <details align="left" style="margin-top: 20px; border: 1px solid #9d7cd8; border-radius: 10px; padding: 15px; background: rgba(255, 255, 255, 0.05);">
+  <details align="left" style="margin-top: 20px; border: 1px solid #9d7cd8; border-radius: 10px; padding: 15px; background: #252540;">
     <summary style="cursor: pointer; font-size: 18px; color: #9d7cd8; font-weight: bold;">
       <samp><b>More Info</b></samp>
     </summary>
@@ -41,8 +41,8 @@
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats"
-                style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+                src="https://github-readme-stats.vercel.app/api?username=0xRokib&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&custom_title=GitHub%20Stats&bg_color=1a1a2e&title_color=9d7cd8&icon_color=61dafb&text_color=e0e0e0"
+                style="border-radius: 10px;"
               />
             </a>
           </td>
@@ -50,15 +50,15 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true&custom_title=Top%20Languages"
-                style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xRokib&langs_count=6&theme=tokyonight&layout=compact&hide_border=true&custom_title=Top%20Languages&bg_color=1a1a2e&title_color=9d7cd8&icon_color=61dafb&text_color=e0e0e0"
+                style="border-radius: 10px;"
               />
             </a>
           </td>
         </tr>
         <tr>
           <td colspan="2" style="padding: 10px;">
-            <p style="font-size: 18px; color: #ffffff; font-weight: bold; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5); margin: 10px 0;">Tech Stack:</p>
+            <p style="font-size: 18px; color: #9d7cd8; font-weight: bold; margin: 10px 0;">Tech Stack:</p>
             <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
               <img src="https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
               <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -93,22 +93,18 @@
           <td style="width: 50%; padding: 10px;">
             <a href="https://leetcode.com/u/0xRokib/" style="text-decoration: none;">
               <img
-                src="https://img.shields.io/badge/LeetCode-0xRokib-brightgreen?style=for-the-badge&logo=Leetcode"
+                src="https://img.shields.io/badge/LeetCode-0xRokib-9d7cd8?style=for-the-badge&logo=Leetcode&logoColor=ffffff"
                 alt="Leetcode Profile"
-                style="transition: transform 0.3s; border-radius: 5px;"
-                onmouseover="this.style.transform='scale(1.1)'"
-                onmouseout="this.style.transform='scale(1)'"
+                style="border-radius: 5px;"
               />
             </a>
           </td>
           <td style="width: 50%; padding: 10px;">
             <a href="https://www.hackerrank.com/0xrokib" style="text-decoration: none;">
               <img
-                src="https://img.shields.io/badge/HackerRank-0xRokib-brightgreen?style=for-the-badge&logo=HackerRank"
+                src="https://img.shields.io/badge/HackerRank-0xRokib-9d7cd8?style=for-the-badge&logo=HackerRank&logoColor=ffffff"
                 alt="HackerRank Profile"
-                style="transition: transform 0.3s; border-radius: 5px;"
-                onmouseover="this.style.transform='scale(1.1)'"
-                onmouseout="this.style.transform='scale(1)'"
+                style="border-radius: 5px;"
               />
             </a>
           </td>
