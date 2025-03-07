@@ -57,18 +57,6 @@
         </tr>
         <tr>
           <td colspan="2" style="padding: 15px;">
-            <a href="#streak-stats">
-              <img
-                alt="GitHub Streak"
-                src="https://github-readme-streak-stats.herokuapp.com/?user=0xRokib&theme=radical&hide_border=true&background=0d1b2a&stroke=00f5d4&ring=7209b7&fire=7209b7&currStreakNum=e0fbfc&sideNums=e0fbfc&currStreakLabel=7209b7&sideLabels=7209b7&dates=e0fbfc"
-                style="border-radius: 10px; border: 1px solid #00f5d4;"
-              />
-            </a>
-          </td>
-        </tr>
-        <!-- Added Trophy Stats -->
-        <tr>
-          <td colspan="2" style="padding: 15px;">
             <a href="#trophies">
               <img
                 alt="GitHub Trophies"
@@ -129,42 +117,6 @@
                 style="border-radius: 8px; border: 1px solid #7209b7;"
               />
             </a>
-          </td>
-        </tr>
-        <!-- Added Currently Working On Section -->
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Currently Working On:</p>
-            <p style="font-size: 16px; color: #e0fbfc; text-align: center;">
-              <a href="https://github.com/0xRokib" style="color: #00f5d4; text-decoration: none;">Building a Next.js-powered dashboard</a> with real-time data visualization.
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Connect with Me:</p>
-            <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-              <a href="https://twitter.com/rokib9724" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=0d1b2a" alt="Twitter" />
-              </a>
-              <a href="https://www.linkedin.com/in/0xrokib/" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=e0fbfc" alt="LinkedIn" />
-              </a>
-              <a href="mailto:rokibulhasan.ph@gmail.com" style="text-decoration: none;">
-                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=00f5d4" alt="Email" />
-              </a>
-            </p>
-            <p style="margin-top: 15px;">
-              <img src="https://visitor-badge.laobi.icu/badge?page_id=0xRokib.0xRokib&left_color=0d1b2a&right_color=7209b7&left_text=Visitors" alt="Visitor Counter" />
-            </p>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" style="padding: 15px;">
-            <p style="font-size: 20px; color: #7209b7; font-weight: bold; margin: 10px 0;">Tech Mantra:</p>
-            <p style="font-size: 16px; color: #e0fbfc; text-align: center; font-style: italic; text-shadow: 0 0 5px rgba(0, 245, 212, 0.5);">
-              "In the matrix of code, every bug is a hidden feature waiting to be unlocked."
-            </p>
           </td>
         </tr>
       </table>
